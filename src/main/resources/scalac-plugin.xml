@@ -1,0 +1,4 @@
+<plugin>
+  <name>dividebyzero-demo</name>
+  <classname>org.chaochu.DivideByZeroDemo</classname>
+</plugin>
